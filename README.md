@@ -6,7 +6,7 @@ Completed till now :\
   Completed reading the book (except chapter 5) - http://neuralnetworksanddeeplearning.com/index.html (Neural Net and Deep Learning)\
   Learned Pytorch using the tutorials available on Pytorch's Official Website \
   Implemented AlexNet, VGGnet \
-  Read about GoogleNet and ResNet \
+  Read about GoogleNet and ResNet
   
-  Ongoing Task : Implementing ResNet using Pytorch. \
+  Ongoing Task : Implementing ResNet using Pytorch.
   
