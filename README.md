@@ -31,3 +31,5 @@ Implemented VGGNet to classify MNIST Digits.
   
   (11/07/21 to 17/07/21)
   Implemented the pix2pix paper to generate colored images from given black and white images.
+  
+All the ipynb files except pix2pix.ipynb donot require any custom dataset. Link for the custom dataset for pix2pix.ipynb is [this](https://drive.google.com/drive/folders/1NCfJuGnqkyIOl7NCON45dTLUxBLK6UIQ?usp=sharing).
